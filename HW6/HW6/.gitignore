@@ -289,3 +289,6 @@ launchSettings.json
 .terraform
 terraform.tfstate
 terraform.tfstate.backup
+.suo
+slnx.sqlite
+.sqlite
