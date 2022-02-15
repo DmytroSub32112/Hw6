@@ -226,6 +226,9 @@ $RECYCLE.BIN
 .suo
 slnx.sqlite
 .sqlite
+#
+.suo
+.slnx.sqlite
 
 ### Linux ###
 
